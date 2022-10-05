@@ -1,0 +1,12 @@
+{
+  "id" : 2,
+  "name" : "Salmon",
+  "supplier" : [ {
+    "name" : "Atlantic Salmon Ltd",
+    "amountKg" : 200
+  } ],
+  "dep" : {
+    "name" : "See fish"
+  }
+}
+
